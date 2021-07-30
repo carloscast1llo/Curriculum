@@ -8,12 +8,12 @@
 
 - **Linkedin**: [Carlos Castillo Sanjuan](https://www.linkedin.com/in/carloscastillosanjuan/)
 - **Github**: [carloscast1llo](https://github.com/carloscast1llo)
-- **HackTheBox**:[carloscast1llo](https://www.hackthebox.eu/home/users/profile/139937)
-- **Twitter**:[carlocast1llo](https://twitter.com/carlocast1llo)
-- **Instagram**:[carloscast1llo](https://www.instagram.com/carloscast1llo/)
+- **HackTheBox**: [carloscast1llo](https://www.hackthebox.eu/home/users/profile/139937)
+- **Twitter**: [carlocast1llo](https://twitter.com/carlocast1llo)
+- **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
 # Sobre mi
-Estudiante en Sistemas de Informacion en la Un. Entusiasta de la ciberseguridad, jugador activo de CTFs actualmente participando con Flaggermeister. Dentro del equipo soy el encargado de Forensics y futura especialización en explotación de binarios. Entusiasta por el hardware hacking. 
+Estudiante en Sistemas de Informacion en la Universidad Politecnica de Madrid. Entusiasta de la ciberseguridad, jugador activo de CTFs. 
 
 # Experiencia
 - **14/03/2019** - **14/06/2019** Practicas de Grado Medio en BeOneOff en la parte de BeOneSec como Auditor Web (Sevilla)
@@ -27,7 +27,7 @@ He trabajado con diferentes lenguajes y tecnologías.
 - Html
 - Css
 - Javascript
-- Java(Proximamente)
+- Java (Proximamente)
 
 
 ## Udemy
@@ -38,5 +38,6 @@ He trabajado con diferentes lenguajes y tecnologías.
 ## Meritos
 
 
-## Otras
-- Permiso de condución tipo B
+## Other (In coming...)
+- Driving license type B
+- English certificate type B1
