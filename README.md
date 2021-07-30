@@ -31,9 +31,7 @@ I have worked with different languages and technologies.
 
 
 ## Udemy
-- Introdución al Hacking y la Cyberseguridad: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Introduccion%20Hacking%20y%20Cyberseguridad.jpg)
-- Introdución a Servidores Linux con Debian: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificado_servidores.pdf)
-- The Certfied Ethical Hacker Course 2020 Edition: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/TheCertfiedEthicalHackerCourse.pdf)
+- Todo en Ciberseguridad. De 0 a Experto: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
 
 ## Merits
 
