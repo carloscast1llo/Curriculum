@@ -2,7 +2,7 @@
 
 - Name and surname: Carlos Castillo Sanjuan
 - Date of birth: August 5, 2003
-- contact email: carloscastilloazr@gmail.com
+- Contact email: carloscastilloazr@gmail.com
 
 # Social media
 
@@ -12,15 +12,15 @@
 - **Twitter**: [carlocast1llo](https://twitter.com/carlocast1llo)
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
-# Sobre mi
+# About me
 Estudiante en Sistemas de Informacion en la Universidad Politecnica de Madrid. Entusiasta de la ciberseguridad, jugador activo de CTFs. 
 
-# Experiencia
-- **14/03/2019** - **14/06/2019** Practicas de Grado Medio en BeOneOff en la parte de BeOneSec como Auditor Web (Sevilla)
+# Experience
+- None,but wanting to have experience.
 
 # Formación
 
-## Lenguajes y tecnologías
+# Languages ​​and technologies
 
 He trabajado con diferentes lenguajes y tecnologías.
 
@@ -30,13 +30,12 @@ He trabajado con diferentes lenguajes y tecnologías.
 - Java (Proximamente)
 
 
-## Udemy
+# Udemy
 - Introdución al Hacking y la Cyberseguridad: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Introduccion%20Hacking%20y%20Cyberseguridad.jpg)
 - Introdución a Servidores Linux con Debian: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificado_servidores.pdf)
 - The Certfied Ethical Hacker Course 2020 Edition: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/TheCertfiedEthicalHackerCourse.pdf)
 
-## Meritos
-
+# Merits
 
 ## Other (In coming...)
 - Driving license type B
