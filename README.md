@@ -22,18 +22,12 @@ Estudiante en Sistemas de Informacion en la Un. Entusiasta de la ciberseguridad,
 
 ## Lenguajes y tecnologías
 
-He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superior
+He trabajado con diferentes lenguajes y tecnologías.
 
-- Python
-- Java
-- Android Studio -> Java
-- Mysql
-- Git
 - Html
 - Css
 - Javascript
-- Bash
-- Ensamblador(Proximamente)
+- Java(Proximamente)
 
 
 ## Udemy
