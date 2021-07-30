@@ -16,7 +16,7 @@
 Estudiante en Sistemas de Informacion en la Universidad Politecnica de Madrid. Entusiasta de la ciberseguridad, jugador activo de CTFs. 
 
 # Experience
-- None,but wanting to have experience.
+- None, but wanting to have experience.
 
 # Academic training
 
