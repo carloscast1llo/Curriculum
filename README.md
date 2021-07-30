@@ -18,11 +18,11 @@ Estudiante en Sistemas de Informacion en la Universidad Politecnica de Madrid. E
 # Experience
 - None,but wanting to have experience.
 
-# Formación
+# Academic training
 
-# Languages ​​and technologies
+## Languages and technologies
 
-He trabajado con diferentes lenguajes y tecnologías.
+I have worked with different languages and technologies.
 
 - Html
 - Css
@@ -30,12 +30,12 @@ He trabajado con diferentes lenguajes y tecnologías.
 - Java (Proximamente)
 
 
-# Udemy
+## Udemy
 - Introdución al Hacking y la Cyberseguridad: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Introduccion%20Hacking%20y%20Cyberseguridad.jpg)
 - Introdución a Servidores Linux con Debian: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificado_servidores.pdf)
 - The Certfied Ethical Hacker Course 2020 Edition: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/TheCertfiedEthicalHackerCourse.pdf)
 
-# Merits
+## Merits
 
 ## Other (In coming...)
 - Driving license type B
