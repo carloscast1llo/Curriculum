@@ -8,7 +8,7 @@
 
 - **Linkedin**: [Carlos Castillo Sanjuan](https://www.linkedin.com/in/carloscastillosanjuan/)
 - **Github**: [carloscast1llo](https://github.com/carloscast1llo)
-- **HackTheBox**: [carloscast1llo](https://www.hackthebox.eu/home/users/profile/139937)
+- **HackTheBox**: [carloscast1llo](https://www.hackthebox.eu/home/users/profile/681708)
 - **Twitter**: [carlocast1llo](https://twitter.com/carlocast1llo)
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
