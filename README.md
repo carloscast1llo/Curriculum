@@ -29,6 +29,9 @@ I have worked with different languages and technologies.
 - Javascript
 - Java (Proximamente)
 
+## PentesterLab
+- Introdution Badge: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
+- Unix Badge: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
 
 ## Udemy
 - Todo en Ciberseguridad. De 0 a Experto: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
