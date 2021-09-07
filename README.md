@@ -30,7 +30,7 @@ I have worked with different languages and technologies.
 - Java (Proximamente)
 
 ## PentesterLab
-- Introdution Badge: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
+- Introdution Badge: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/IntroductionBadge.pdf)
 - Unix Badge: [Certificado](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
 
 ## Udemy
