@@ -39,5 +39,4 @@ I have worked with different languages and technologies.
 ## Merits
 
 ## Other (In coming...)
-- Driving license type B
-- English certificate type B1
+- English certificate type B2
