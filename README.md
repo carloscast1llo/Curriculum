@@ -31,7 +31,7 @@ I have worked with different languages and technologies.
 - Java (Incoming)
 - C++ (Incoming)
 
-## Universidad Salamanca - C1b3rWall
+## Universidad de Salamanca - C1b3rWall
 - C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificado%20CW_Modulo%200.pdf)
 
 ## PentesterLab
