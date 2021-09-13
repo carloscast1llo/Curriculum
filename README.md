@@ -32,7 +32,7 @@ I have worked with different languages and technologies.
 - C++ (Incoming)
 
 ## Universidad Salamanca - C1b3rWall
-- C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificado CW_Modulo 0.pdf)
+- C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificado%20CW_Modulo%200.pdf)
 
 ## PentesterLab
 - Introdution Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/IntroductionBadge.pdf)
