@@ -13,7 +13,7 @@
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
 # About me
-Estudiante en Sistemas de Informacion en la Universidad Politecnica de Madrid. Entusiasta de la ciberseguridad, jugador activo de CTFs. 
+Information Systems student at the Universidad Politecnica de Madrid. Cybersecurity enthusiast, active CTFs player. 
 
 # Experience
 - None, but wanting to have experience.
