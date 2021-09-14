@@ -43,7 +43,10 @@ I have worked with different languages and technologies.
 - Todo en Ciberseguridad. De 0 a Experto: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
 
 ## Merits
-- Participation IntelCon2021: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/IntelCon2021_Participation.pdf)
+- TOP 10 - C1b3rWall Final Challenges: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/)
+- TOP 10 - C1b3rWall Advanced: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/)
+- TOP 10 - C1b3rWall Rookie: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/)
+- Participation IntelCon2021: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/)
 
 ## Other (In coming...)
 - English certificate type B2
