@@ -47,7 +47,7 @@ I have worked with different languages and technologies.
 - TOP 10 - C1b3rWall Final Challenges (CTFs): [Certificate](https://c1b3rwall.hackrocks.com/certs/fcb0a19a-f185-4612-b8a1-501609f7060f)
 - TOP 10 - C1b3rWall Advanced (CTFs): [Certificate](https://c1b3rwall.hackrocks.com/certs/78d3c45a-7977-4e76-9706-5ad9fdfe5959)
 - TOP 10 - C1b3rWall Rookie (CTFs): [Certificate](https://c1b3rwall.hackrocks.com/certs/ac7eba5b-25a1-4c11-929e-43cb7f3f4f65)
-- Participation IntelCon2021: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/)
+- Participation IntelCon2021: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/IntelCon2021_Participation.pdf)
 
 ## Other (In coming...)
 - English certificate type B2
