@@ -32,21 +32,22 @@ I have worked with different languages and technologies.
 - C++ (In coming)
 
 ## Universidad de Salamanca - C1b3rWall
-- C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificado%20CW_Modulo%200.pdf)
+- C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/Certificado%20CW_Modulo%200.pdf)
 
 ## PentesterLab
-- Introdution Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/IntroductionBadge.pdf)
-- Unix Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/UnixBadge.pdf)
-- PCAP Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/PCAP_Badge.pdf)
+- Introdution Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/IntroductionBadge.pdf)
+- Unix Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/UnixBadge.pdf)
+- PCAP Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/PCAP_Badge.pdf)
 
 ## Udemy
-- Todo en Ciberseguridad. De 0 a Experto: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/CertificadoUdemy_0aE_jpg.jpg)
+- Todo en Ciberseguridad. De 0 a Experto: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/CertificadoUdemy_0aE.pdf)
+- Hacking Etico Avanzado: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/HackingEtico.pdf)
 
 ## Merits
 - TOP 10 - C1b3rWall Final Challenges (CTFs): [Certificate](https://c1b3rwall.hackrocks.com/certs/fcb0a19a-f185-4612-b8a1-501609f7060f)
 - TOP 10 - C1b3rWall Advanced (CTFs): [Certificate](https://c1b3rwall.hackrocks.com/certs/78d3c45a-7977-4e76-9706-5ad9fdfe5959)
 - TOP 10 - C1b3rWall Rookie (CTFs): [Certificate](https://c1b3rwall.hackrocks.com/certs/ac7eba5b-25a1-4c11-929e-43cb7f3f4f65)
-- Participation IntelCon2021: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/)
+- Participation IntelCon2021: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/IntelCon2021_Participation.pdf)
 
 ## Other (In coming...)
 - English certificate type B2
