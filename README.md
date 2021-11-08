@@ -33,6 +33,7 @@ I have worked with different languages and technologies.
 
 ## Universidad de Salamanca - C1b3rWall
 - C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/Certificado%20CW_Modulo%200.pdf)
+- C1b3rWall Academy - Modulo 1 - Redes y arquitecturas: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/CertificadoCW_Modulo_1.pdf)
 
 ## PentesterLab
 - Introdution Badge: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/IntroductionBadge.pdf)
