@@ -13,7 +13,7 @@
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
 # About me
-Software Engineering student at the Universidad Politecnica de Madrid. Cybersecurity enthusiast, active CTFs player. 
+Software Engineering student at the Universidad Politecnica de Madrid. Junior Pentester - CSIO. 
 
 # Experience
 - None, but wanting to have experience.
@@ -27,9 +27,12 @@ I have worked with different languages and technologies.
 - Html
 - Css
 - Javascript
+- Vue
+- Java
 - Unix
-- Java (In coming)
-- C++ (In coming)
+
+# Certifies More Important
+- CSIO - Curso de Seguridad Informatica Ofensiva - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/CSIO-PDF.pdf)
 
 ## Universidad de Salamanca - C1b3rWall
 - C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/Certificado%20CW_Modulo%200.pdf)
