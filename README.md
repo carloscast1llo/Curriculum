@@ -13,7 +13,7 @@
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
 # About me
-Software Engineering student at the Universidad Politecnica de Madrid. Junior Pentester - CSIO. 
+Software Engineering student at the Universidad Politecnica de Madrid and Junior Pentester - CSIO. 
 
 # Experience
 - None, but wanting to have experience.
