@@ -6,7 +6,7 @@
 
 # Social media
 
-- **Linkedin**: [Carlos Castillo Sanjuan](https://www.linkedin.com/in/carloscastillosanjuan/)
+- **Linkedin**: [Carlos Castillo Sanjuan](www.linkedin.com/in/carloscast1llo)
 - **Github**: [carloscast1llo](https://github.com/carloscast1llo)
 - **HackTheBox**: [carloscast1llo](https://www.hackthebox.eu/home/users/profile/681708)
 - **Twitter**: [carlocast1llo](https://twitter.com/carlocast1llo)
