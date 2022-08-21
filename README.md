@@ -33,7 +33,7 @@ I have worked with different languages and technologies.
 
 ## Certificates More Important
 - CSIO - Curso de Seguridad Informatica Ofensiva - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/CSIO-PDF.pdf)
-- eJPT - [Certificate] (In coming...)
+- eJPT - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/eJPT-PDF.pdf)
 
 ## Universidad de Salamanca - C1b3rWall
 - C1b3rWall Academy - Modulo 0: [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/Certificado%20CW_Modulo%200.pdf)
