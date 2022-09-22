@@ -24,12 +24,11 @@ Software Engineering student at the Universidad Politecnica de Madrid and Junior
 
 I have worked with different languages and technologies.
 
+- Python
+- Java
+- Bash
 - Html
 - Css
-- Javascript
-- Vue
-- Java
-- Unix
 
 ## Certificates More Important
 - CSIO - Curso de Seguridad Informatica Ofensiva - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/CSIO-PDF.pdf)
