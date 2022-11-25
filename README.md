@@ -2,7 +2,7 @@
 
 - Name and surname: Carlos Castillo Sanjuan
 - Date of birth: August 5, 2003
-- Contact email: carloscastilloazr@gmail.com
+- Contact email: carlos@cast1llo.com
 
 # Social media
 
@@ -13,7 +13,7 @@
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
 # About me
-Software Engineering student at the Universidad Politecnica de Madrid and Junior Pentester - CSIO. 
+Software Engineering student at the Universidad Politecnica de Madrid and Junior Pentester - [CSIO - eJPT - eCPPT]. 
 
 # Experience
 - None, but wanting to have experience.
