@@ -16,7 +16,7 @@
 Software Engineering student at the Universidad Politecnica de Madrid and Junior Pentester - [eCPPT - eWPT - eJPT - CSIO]. 
 
 # Experience
-- None, but wanting to have experience.
+- Teacher of Cybersecurity in Secondary Schools (ESO)
 
 # Academic training
 
