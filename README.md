@@ -13,7 +13,7 @@
 - **Instagram**: [carloscast1llo](https://www.instagram.com/carloscast1llo/)
 
 # About me
-Software Engineering student at the Universidad Politecnica de Madrid and Junior Pentester - [CSIO - eJPT - eCPPT]. 
+Software Engineering student at the Universidad Politecnica de Madrid and Junior Pentester - [eCPPT - eWPT - eJPT - CSIO]. 
 
 # Experience
 - None, but wanting to have experience.
@@ -32,6 +32,7 @@ I have worked with different languages and technologies.
 
 ## Certificates More Important
 - eCPPTv2 - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/eCPPT.pdf)
+- eWPT - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/eWPT.pdf)
 - eJPT - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/eJPT.pdf)
 - CSIO - Curso de Seguridad Informatica Ofensiva - [Certificate](https://github.com/carloscast1llo/Curriculum/blob/main/Certificates/CSIO-PDF.pdf)
 
